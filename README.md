@@ -119,8 +119,8 @@
 
 <h3 align="left">Statistics:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartmaatt&show_icons=true&locale=en&layout=compact" alt="smartmaatt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartmaatt&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="smartmaatt" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smartmaatt&show_icons=true&locale=en" alt="smartmaatt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smartmaatt&show_icons=true&locale=en&theme=apprentice" alt="smartmaatt" />
 </p>
