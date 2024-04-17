@@ -116,11 +116,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
 </p>
-
-<h3 align="left">Statistics:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartmaatt&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="smartmaatt" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smartmaatt&show_icons=true&locale=en&theme=apprentice" alt="smartmaatt" />
-</p>
