@@ -15,7 +15,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCNt3-RHawHuIOr67bj20yRg" height="30" width="40" />
 </a>
 <a href="https://www.tiktok.com/@smartmaatt" target="blank">
-  <img align="center" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" alt="https://www.tiktok.com/@smartmaatt" height="30" width="30" />
+  <img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/450/non_2x/tiktok-icon-free-png.png" alt="https://www.tiktok.com/@smartmaatt" height="30" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/mateusz-p%c5%82onka-328a48214/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateusz-p%c5%82onka-328a48214/" height="30" width="40" />
@@ -79,7 +79,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="40"/> 
 </a>
 <a href="https://spline.design/" target="_blank" rel="noreferrer"> 
-  <img src="https://spline.design/_ipx/w_128,q_75/%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png" alt="spline" width="40" height="40"/> 
+  <img src="https://shortcuts.design/assets/img/logo-spline.png" alt="spline" width="40" height="40"/> 
 </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> 
