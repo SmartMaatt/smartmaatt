@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning: **OpenCV, Machine Learning, Spline**
 - 💬 Ask me about: **Computer graphics, Shaders, OpenGL, Unity**
 - 👨‍💻 All of my projects are available at [https://smartmatt.pl/](https://smartmatt.pl/)
-- 📫 How to reach me **mateuszplonka.tg@gmail.com**
+- 📫 How to reach me: mateuszplonka.tg@gmail.com
+- 📄 Check out my CV: [[Link]](https://drive.google.com/drive/folders/1rWHyZY05GbMLSd0MRTmK0yAH-WIgSnZm?usp=drive_link)
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
